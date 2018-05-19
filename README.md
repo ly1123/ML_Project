@@ -26,7 +26,7 @@ The code of this project are divided into 3 parts: Data Processing, User-based c
 ### Multi-classification:
 
 - Modeling_RF.ipynb	contains code using Random Forest as the classification model. 
-- Modeling_xgboost.ipynb contains code of advanced customer filter and XGBoost model. A modified MAP and hit rate is also included. 
+- Modeling_xgboost.ipynb contains code of advanced customer filter and XGBoost model. Modified version of MAP and hit rate are also included. 
 
 # Acknowledgement
 
