@@ -30,4 +30,4 @@ The code of this project are mainly 3 parts: Data Processing, User-based collabo
 
 # Acknowledgement
 
-This project was supported and advised by Bonnie Ray ,who is the Vice President of Pegged Software and previous director of Cognitive Algorithms at IBM Research. We would like to express our thanks to her who provided insight and advice that greatly assisted this project.
+This project was supported and advised by Bonnie Ray, who is the Vice President of Pegged Software and previous director of Cognitive Algorithms at IBM Research. We would like to express our thanks to her who provided insight and advice that greatly assisted this project.
