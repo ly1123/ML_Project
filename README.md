@@ -11,7 +11,7 @@ This dataset provides the monthly records of customer behavior data with 1.5 yea
 
 # Code
 
-The code of this project are mainly 3 parts: Data Processing, User-based collaborative filtering, Multi-classification
+The code of this project are divided into 3 parts: Data Processing, User-based collaborative filtering, Multi-classification
 
 ### Data Processing:
 
